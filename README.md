@@ -4,7 +4,7 @@ A basic poll application, following django tutorial.
 - [x] Part 2  
 - [x] Part 3  
 - [x] Part 4  
-- [ ] Part 5  
+- [x] Part 5  
   
 ### Created by
 6110545694 Anant Arayanant
