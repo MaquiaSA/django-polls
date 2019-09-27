@@ -20,11 +20,17 @@ The application requires
  MacOS/Linux : pip3 install -r requirements.txt
  Window : pip install -r requirements.txt
  ```
- 3. Run server
+ 3. Make the database migration
+ ```
+ MacOS/Linux : python3 manage.py migrate
+ Window : py manage.py migrate
+ ```
+ 4. Run server
  ```
  MacOS/Linux : python3 manage.py runserver
  Window : py manage.py runserver
  ```
+ 5. Navigate your web browser to [http://localhost:8000/polls](http://localhost:8000/polls) or [http://127.0.0.1:8000/polls](http://127.0.0.1:8000/polls)
 
 ### Created by
 6110545694 Anant Arayanant  
